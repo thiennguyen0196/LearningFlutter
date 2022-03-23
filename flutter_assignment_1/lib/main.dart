@@ -4,8 +4,8 @@
 // 3) Split the app into three widgets: App, TextControl & Text
 
 import 'package:flutter/material.dart';
-import 'package:flutter_assignment_1/textchange.dart';
-import 'package:flutter_assignment_1/textcontrol.dart';
+import './textchange.dart';
+import './textcontrol.dart';
 
 void main() {
   runApp(const MyAssignment1App());
