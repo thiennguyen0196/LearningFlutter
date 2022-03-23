@@ -7,8 +7,6 @@ void main() => runApp(MyApp());
 class MyApp extends StatefulWidget {
   @override
   State<StatefulWidget> createState() {
-    var a = _MyAppState();
-    a._questionIndex;
     return _MyAppState();
   }
 }
